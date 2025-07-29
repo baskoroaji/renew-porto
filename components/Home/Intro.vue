@@ -7,7 +7,7 @@
       Hello!
     </h1>
     <p class="text-gray-900 dark:text-gray-400">
-    Certified AI Engineer with hands-on experience in data analytics, data science, and machine learning. Delivered real-world solutions,
+    Im Baskoro Aji, a Certified AI Engineer with hands-on experience in data analytics, data science, and machine learning. Delivered real-world solutions,
     including a Python-based Discord bot for performance tracking and a predictive mental health screening platform for Gen Z.
     Recently completed an AI and machine learning training program through the Laskar AI cohort (certification pending). Passionate
     about building data-driven, scalable systems and committed to continuous learning and team collaboration.
