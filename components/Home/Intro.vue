@@ -7,9 +7,11 @@
       Hello!
     </h1>
     <p class="text-gray-900 dark:text-gray-400">
-     I am Baskoro Aji, a software engineer, machine learning engineer, and data scientist from indonesia
-     i am very enthusiastic about full stack web development such as vue, react, java, and node.js
-     other than that i am certified AI Engineer from Laskar Ai By NVIDIA, Lintasarta
+    Certified AI Engineer with hands-on experience in data analytics, data science, and machine learning. Delivered real-world solutions,
+    including a Python-based Discord bot for performance tracking and a predictive mental health screening platform for Gen Z.
+    Recently completed an AI and machine learning training program through the Laskar AI cohort (certification pending). Passionate
+    about building data-driven, scalable systems and committed to continuous learning and team collaboration.
+
 
     </p>
   </div>
